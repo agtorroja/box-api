@@ -9,7 +9,7 @@
 
   <p align="center">
     <h3 align="center">Box Delivery - APP</h3>
-    <a href="https://github.com/BrianBts/coworkers-client"><strong>See the frontend repository - Client »</strong></a>
+    <a href="https://github.com/agtorroja/box-client"><strong>See the frontend repository - Client »</strong></a>
   </p>
 </div>
 
